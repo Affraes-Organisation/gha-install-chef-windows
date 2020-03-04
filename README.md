@@ -1,1 +1,1 @@
-# install-chef-windows
+# gha-install-chef-windows
